@@ -43,7 +43,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 Spyingtool is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">XploitWizer</a></p>
+<p align="center">Made with ❤️ By <a href="https://wespypeoples.wordpress.com">Girlprotection</a></p>
 
 ## Credits
 

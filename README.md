@@ -34,7 +34,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 ## Buy us a Coffee
    
    
-   Paytm : 8360765415
+   DM me weprotectyourgirls@gmail.com
 
 
 
